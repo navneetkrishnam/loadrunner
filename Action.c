@@ -66,8 +66,7 @@ Action()
 		"Src=../images/sign-out.gif", 
 		"Snapshot=t7.inf", 
 		LAST);
-	
-	
+		
 	lr_end_transaction("LogOut",LR_AUTO);
 
 	return 0;
