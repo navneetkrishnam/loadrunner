@@ -1,0 +1,146 @@
+[API Trapper      (17c8:1244)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( 30c: 888)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( 9d8: 3b8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( 144:12e8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( 144:1494)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 144:1494)] Load Network Traffic Analyzers:
+[Network Analyzer ( 144:1494)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 144:1494)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( 144:1494)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 144:1494)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( 144:1494)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( 144:1494)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 144:1494)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 144:1494)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 144:154c)] Address lookup for 01hw768773 = 172.24.50.48
+[Network Analyzer ( 144:1494)] Address lookup for 01hw768773 = 172.24.50.48
+[Network Analyzer ( 144:1494)] Request Connection: Remote Server @ 172.24.50.80:9090   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( 144:154c)] "GET /jpetstore/"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 251 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 1705 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/bkg-topbar.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 318 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 1163 bytes  (Service=HTTP)
+[Network Analyzer ( 144:1618)] Address lookup for 01hw768773 = 172.24.50.48
+[Web Request      ( 144:154c)] "GET /jpetstore/images/logo-topbar.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 319 bytes (Service=HTTP)
+[Network Analyzer ( 144:1618)] Request Connection: Remote Server @ 172.24.50.80:9090   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:1494)] Address lookup for 01hw768773 = 172.24.50.48
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 1094 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/cart.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  2) Client -> Server @ : 312 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/separator.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 317 bytes (Service=HTTP)
+[Network Analyzer ( 144:1578)] Address lookup for 01hw768773 = 172.24.50.48
+[Network Analyzer ( 144:1494)] Request Connection: Remote Server @ 172.24.50.80:9090   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 144:154c)]   (Sid:  2) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 248 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/sign-in.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  3) Client -> Server @ : 315 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/search.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 314 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/help.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  2) Client -> Server @ : 312 bytes (Service=HTTP)
+[Network Analyzer ( 144:11e8)] Address lookup for 01hw768773 = 172.24.50.48
+[Network Analyzer ( 144:1578)] Request Connection: Remote Server @ 172.24.50.80:9090   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 144:154c)]   (Sid:  3) Server -> Client : 461 bytes  (Service=HTTP)
+[Network Analyzer ( 144:13d4)] Address lookup for 01hw768773 = 172.24.50.48
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 527 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  2) Server -> Client : 338 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/poweredby.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  4) Client -> Server @ : 317 bytes (Service=HTTP)
+[Network Analyzer ( 144:11e8)] Request Connection: Remote Server @ 172.24.50.80:9090   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 144:13d4)] Request Connection: Remote Server @ 172.24.50.80:9090   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 8 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /favicon.ico"   
+[Network Analyzer ( 144:154c)]   (Sid:  4) Client -> Server @ : 228 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 2509 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/shop/signonForm.shtml"   
+[Network Analyzer ( 144:154c)]   (Sid:  4) Client -> Server @ : 429 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 970 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/sm_fish.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  4) Client -> Server @ : 389 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/sm_dogs.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  2) Client -> Server @ : 389 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/sm_reptiles.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 393 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 475 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 602 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  2) Server -> Client : 510 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/sm_cats.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  3) Client -> Server @ : 389 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/sm_birds.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  5) Client -> Server @ : 390 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/button_submit.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  3) Server -> Client : 493 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/button_register_now.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  4) Client -> Server @ : 401 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  5) Server -> Client : 455 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 1321 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 840 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "POST /jpetstore/shop/signon.shtml;jsessionid=DAB4006CB9DED043FC57E0CD4BE65D9E"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 674 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 3759 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/sign-out.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 430 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/my_account.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  4) Client -> Server @ : 432 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/fish_icon.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  5) Client -> Server @ : 431 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/reptiles_icon.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 435 bytes (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/dogs_icon.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  3) Client -> Server @ : 431 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 659 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 494 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 873 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/cats_icon.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  2) Client -> Server @ : 431 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  3) Server -> Client : 672 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/birds_icon.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  4) Client -> Server @ : 432 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  5) Server -> Client : 643 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/banner_dogs.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  1) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  2) Server -> Client : 612 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/splash.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 428 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Server -> Client : 675 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  1) Server -> Client : 6367 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 3537 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/shop/viewCategory.shtml?categoryId=FISH&id=1459426483506"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 578 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 4126 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/shop/viewProduct.shtml?productId=FI-FW-01"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 558 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 1352 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/button_add_to_cart.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 420 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 685 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/shop/viewItem.shtml?itemId=EST-4"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 534 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 1066 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/images/fish3.gif"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 398 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 8760 bytes  (Service=HTTP)
+[Web Request      ( 144:154c)] "GET /jpetstore/shop/signoff.shtml"   
+[Network Analyzer ( 144:154c)]   (Sid:  6) Client -> Server @ : 511 bytes (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  6) Server -> Client : 3257 bytes  (Service=HTTP)
+[Network Analyzer ( 144:154c)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer ( 144:154c)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer ( 144:154c)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( 144:154c)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( 144:154c)]   (Sid:  1) Connection Terminated (by Server)

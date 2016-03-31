@@ -1,0 +1,9 @@
+GET /jpetstore/shop/signonForm.shtml HTTP/1.1
+Accept: image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, */*
+Referer: http://172.24.50.80:9090/jpetstore/
+Accept-Language: en-US
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64; Trident/8.0; .NET4.0C; .NET4.0E)
+Accept-Encoding: gzip, deflate
+Host: 172.24.50.80:9090
+Connection: Keep-Alive
+

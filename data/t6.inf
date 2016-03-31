@@ -1,0 +1,13 @@
+[t6]
+FileName1=t6.htm
+URL1=http://172.24.50.80:9090/jpetstore/shop/viewItem.shtml?itemId=EST-4
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_fish3.gif
+URL2=http://172.24.50.80:9090/jpetstore/images/fish3.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

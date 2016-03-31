@@ -1,0 +1,22 @@
+[Graph definition]
+count=1
+GraphTitle=FLOWS_1 : Server Bandwidth Utilization Out %
+DataPointLabel_1=offline_datapoint_19
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=FLOWS_1 : Server Bandwidth Utilization Out %
+GraphGroupMenuTitle=Average Bandwidth Utilization
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=WAN_EMULATION_NIC_BW_UTIL
+DataPointDescr_1=Displays the average data traffic passing to the virtualized location, measured in kbps.
+[Shunra]
+ShunraLocation=FLOWS_1
+ShunraShapeID=ServerUpstream
+ShunraMonitorID=BW_UTIL

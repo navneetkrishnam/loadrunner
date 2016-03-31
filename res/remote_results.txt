@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\Users\751377\Documents\Scripts\WebHttpHtml_NV_Trial_1\res\localhost_3.eve

@@ -1,0 +1,26 @@
+[Graph definition]
+count=2
+GraphTitle=2.5G Busy : Packet Loss Count
+DataPointLabel_1=offline_datapoint_9
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=2.5G Busy : Packet Loss Count
+GraphGroupMenuTitle=Packet Loss
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=WAN_EMULATION_CLOUD_PACKET_LOSS
+DataPointDescr_1=Lists the number of packets lost during the last second. Packet loss occurs when data packets fail to reach their destination. It can result from gateway overload, signal degradation, channel congestion and faulty hardware software.
+DataPointLabel_2=offline_datapoint_13
+LineTitle_2=localhost
+LineGroup_2=1
+DataPointDescr_2=Lists the number of packets lost during the last second. Packet loss occurs when data packets fail to reach their destination. It can result from gateway overload, signal degradation, channel congestion and faulty hardware software.
+[Shunra]
+ShunraLocation=2.5G Busy
+ShunraShapeID=WANCloud
+ShunraMonitorID=PACKETS_LOSS_COUNT

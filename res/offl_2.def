@@ -1,0 +1,26 @@
+[Graph definition]
+count=2
+GraphTitle=2.5G Busy : Packet Loss %
+DataPointLabel_1=offline_datapoint_2
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=2.5G Busy : Packet Loss %
+GraphGroupMenuTitle=Packet Loss
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=WAN_EMULATION_CLOUD_PACKET_LOSS
+DataPointDescr_1=Percentage of packet loss in the network for the last second
+DataPointLabel_2=offline_datapoint_14
+LineTitle_2=localhost
+LineGroup_2=1
+DataPointDescr_2=Percentage of packet loss in the network for the last second
+[Shunra]
+ShunraLocation=2.5G Busy
+ShunraShapeID=WANCloud
+ShunraMonitorID=PACKET_LOSS_PERCENT

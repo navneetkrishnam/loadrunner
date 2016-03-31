@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=DAB4006CB9DED043FC57E0CD4BE65D9E; Path=/jpetstore
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 3667
+Date: Thu, 31 Mar 2016 12:14:41 GMT
+

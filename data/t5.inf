@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5.htm
+URL1=http://172.24.50.80:9090/jpetstore/shop/viewProduct.shtml?productId=FI-FW-01
+Total=2
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5_button_add_to_cart.gif
+URL2=http://172.24.50.80:9090/jpetstore/images/button_add_to_cart.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

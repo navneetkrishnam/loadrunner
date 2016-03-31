@@ -1,0 +1,22 @@
+[Graph definition]
+count=1
+GraphTitle=2.5G Busy : Server Current bps - Out
+DataPointLabel_1=offline_datapoint_3
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=2.5G Busy : Server Current bps - Out
+GraphGroupMenuTitle=Average Throughput
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=WAN_EMULATION_NIC_BPS
+DataPointDescr_1=The average bandwidth utilized by a virtual user or a virtualized location from the maximal available bandwidth allocated for it during the last second, measured in percentages.
+[Shunra]
+ShunraLocation=2.5G Busy
+ShunraShapeID=ServerUpstream
+ShunraMonitorID=BPS

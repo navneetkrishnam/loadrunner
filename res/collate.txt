@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=C:\Program Files (x86)\HP\LoadRunner\scenario\NV_Trial_1.lrs
+Completed=0
